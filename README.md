@@ -3,6 +3,7 @@
 Este proyecto es una Landing Page para una compañía especializada en la personalización de vehículos, específicamente Mustang. Proporciona información detallada sobre los diferentes motores disponibles y sus especificaciones, permitiendo a los clientes personalizar su vehículo según sus preferencias. Ofrece una experiencia de navegación intuitiva y eficiente para mejorar la experiencia del usuario.
 
 ## Demo
+![image](https://github.com/Casadjes/Vehicle-Company-Homepage/assets/115717042/6829fd68-355b-4af3-abfe-7436835e9dca)
 
 ## Rendimiento
 
@@ -44,4 +45,4 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para má
 
 ## 👏 Gracias a todos por sus contribuciones
 
-<img align="left" src="https://contributors-img.web.app/image?repo=Casadjes/Vehicle-Company-Homepage"/>
+<img align="left" src="https://contributors-img.web.app/image?repo=Lostovayne/Vehicle-Company-Homepage"/>
